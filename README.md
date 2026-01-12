@@ -4,10 +4,10 @@
 
 Ever Since i got my hands on my first computer , i was hooked, i love everything  that computers do, i like to dive deep into things and make things from scratch.
 
-Skills: Java/Python/HTML/CSS/JavaScript/Go
+Skills: Java/Python/HTML/CSS/JavaScript/Go/Node/Nest.js/Next.js/FastAPI/Firestore/BigQuery
 
-- 🔭 I’m currently working on Angular 
-- 🌱 I’m currently learning Full  Stack 
+- 🔭 I’m currently working on AI Agents 
+- 🌱 I’m currently learning Agentic Systems
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adit-ya2412)  
